@@ -88,5 +88,5 @@
 </p>
 
 <p align="center">
-  <i>“Empowering learning, one project at a time.”</i>
+  <i>“Like unresolved chords, some bugs just live in suspended tension until release...:)”</i>
 </p>
