@@ -39,7 +39,7 @@
 
 <h2 align="center">🏆 Achievements</h2>
 
-- 🏅 Solved **50+ questions** on Leetcode and Codeforces.
+- 🏅 Solved **80+ questions** on Leetcode and Codeforces.
 - 🥇 Consistently ranked **1st** in inter-college solo singing competitions.
 
 ---
