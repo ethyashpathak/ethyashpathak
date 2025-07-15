@@ -2,7 +2,7 @@
 
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Shaswat+Pathak!;Welcome+to+my+GitHub+profile!;Frontend-Developer+%7C+Tech+Enthusiast+%7C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Shaswat+Pathak!;Welcome+to+my+GitHub+profile!;Frontend-Developer+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
