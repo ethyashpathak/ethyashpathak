@@ -26,14 +26,19 @@
 
 <h2 align="center">🚀 Projects</h2>
 
-### 🌐 3D Rotating Globe Visualization
+### 🌐 [3D Rotating Globe Visualization](https://ethyashpathak.github.io/Globe3D/)
 *Three.js, JavaScript, WebGL*  
 - Interactive 3D globe with real-world rotation, camera controls, and lighting.
 - **Upcoming:** React migration, click-based lat/lon detection, real-time weather via OpenWeatherMap API.
 
-### 📝 BlogSite
-*Appwrite, Redux-Toolkit, React, Tailwind CSS*  
-- Blogging platform with rich-text, image uploads, and secure authentication.
+### 📝 [BlogSite](https://blogsite-six-beige.vercel.app/)
+*Appwrite, Redux-Toolkit, React, Tailwind CSS,TinyMCE*  
+- A modern blogging platform with rich-text editing (TinyMCE), image uploads, and secure Appwrite-based authentication.
+
+- Built with Redux Toolkit for smooth state handling and a fully responsive UI using Tailwind CSS.
+
+- Supports dark/light mode toggle for an enhanced reading and writing experience.
+
 
 ---
 
