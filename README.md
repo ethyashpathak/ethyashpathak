@@ -32,13 +32,10 @@
 - **Upcoming:** React migration, click-based lat/lon detection, real-time weather via OpenWeatherMap API.
 
 ### 📝 [BlogSite](https://blogsite-six-beige.vercel.app/)
-*Appwrite, Redux-Toolkit, React, Tailwind CSS,TinyMCE*  
+*Appwrite, Redux-Toolkit, React, Tailwind CSS, TinyMCE*  
 - A modern blogging platform with rich-text editing (TinyMCE), image uploads, and secure Appwrite-based authentication.
-
 - Built with Redux Toolkit for smooth state handling and a fully responsive UI using Tailwind CSS.
-
 - Supports dark/light mode toggle for an enhanced reading and writing experience.
-
 
 ---
 
@@ -72,6 +69,18 @@
 
 ---
 
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ethyashpathak&show_icons=true&theme=radical" alt="Shaswat's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethyashpathak&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethyashpathak&layout=compact&theme=radical" alt="Top Languages" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ethyashpathak&theme=radical&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</p>
+
+---
+
 <h2 align="center">🤝 Roles of Responsibility</h2>
 
 - **GDSC:** Active Team Member
@@ -89,9 +98,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ethyashpathak&show_icons=true&theme=radical" alt="Shaswat's GitHub stats" />
-</p>
-
-<p align="center">
-  <i>“Like unresolved chords, some bugs just live in suspended tension until release...:)”</i>
+  <i>“Like unresolved chords, some bugs just live in suspended tension until release... :)”</i>
 </p>
