@@ -76,7 +76,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethyashpathak&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethyashpathak&layout=compact&theme=radical" alt="Top Languages" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=ethyashpathak&theme=radical&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
 ---
