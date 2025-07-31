@@ -26,11 +26,6 @@
 
 <h2 align="center">🚀 Projects</h2>
 
-### 🌐 [3D Rotating Globe Visualization](https://ethyashpathak.github.io/Globe3D/)
-*Three.js, JavaScript, WebGL*  
-- Interactive 3D globe with real-world rotation, camera controls, and lighting.
-- **Upcoming:** React migration, click-based lat/lon detection, real-time weather via OpenWeatherMap API.
-
 ### 📝 [BlogSite](https://blogsite-six-beige.vercel.app/)
 *Appwrite, Redux-Toolkit, React, Tailwind-CSS, TinyMCE*  
 - A modern blogging platform with rich-text editing (TinyMCE), image uploads, and secure Appwrite-based authentication.
@@ -42,6 +37,14 @@
 - Prototype UI for an e-learning startup, built as a college assignment.
 - Features secure authentication with Appwrite and smooth animations using GSAP and Framer Motion.
 - Includes a responsive design with dark/light mode toggle for an enhanced user experience. 
+
+### 🧠 [Marketing Analytics Dashboard)](https://admybrand-one.vercel.app/)
+*React 19, Tailwind CSS v4, Recharts*  
+- Developed a responsive, real-time dashboard with interactive charts, KPI metrics, and data tables for marketing
+performance analysis.
+-Implemented a clean UI/UX with dark/light themes, dropdown navigation, and modular components optimized for
+performance.
+-Architected a clean, component-based frontend system with mock data integration and optimized build setup via Vite.
 
 ---
 
