@@ -30,19 +30,19 @@
 <p>
   <b>📝 <a href="https://blogsite-six-beige.vercel.app/">BlogSite</a></b><br>
   <i>Appwrite, Redux-Toolkit, React, Tailwind CSS, TinyMCE</i><br>
-  Modern blogging platform with rich-text editing, image uploads, secure auth, and responsive design.
+  Modern full stack blogging platform with rich-text editing, image uploads, secure auth, and responsive design.
 </p>
 
 <p>
   <b>🧠 <a href="https://brainbridge-5tbb-oxphzfk9m-ethyashpathaks-projects.vercel.app/">BrainBridge (Prototype UI)</a></b><br>
   <i>React, Appwrite, GSAP, Framer Motion, Tailwind CSS</i><br>
-  E-learning startup prototype UI. Smooth animations, secure auth, dark/light mode.
+  E-learning startup prototype UI. Smooth animations, secured auth using Appwrite, dark/light mode.
 </p>
 
 <p>
   <b>📊 <a href="https://admybrand-one.vercel.app/">Marketing Analytics Dashboard</a></b><br>
   <i>React 19, Tailwind CSS v4, Recharts</i><br>
-  Real-time dashboard with interactive charts, KPI metrics, modular UI, and dark/light themes.
+  Built a real-time SaaS analytics dashboard with modular UI, dynamic KPI metrics, real-time API integration, and interactive, animated data visualizations
 </p>
 
 ---
