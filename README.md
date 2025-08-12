@@ -50,7 +50,7 @@
 <h2 align="center">🏆 Achievements</h2>
 
 <p align="center">
-🏅 120+ DSA problems solved across platforms<br>
+🏅 150+ DSA problems solved across platforms<br>
 🥇 1st Place in multiple solo singing competitions<br>
 </p>
 
