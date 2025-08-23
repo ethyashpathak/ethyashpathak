@@ -51,7 +51,7 @@
 
 <p align="center">
 🏅 180+ DSA problems solved across platforms<br>
-🥇 1st Place in multiple solo singing competitions<br>
+🥇 1st Place in multiple inter-college solo singing competitions<br>
 </p>
 
 ---
