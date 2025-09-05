@@ -20,7 +20,7 @@
 🌏 Based in Kolkata, India<br>
 💡 Passionate about web apps, 3D visualizations, scalable backend systems<br>
 🎼 Original music composer in free time<br>
-🛠️ Always learning new tech & frameworks!
+🛠️  Collecting bugs… I mean, learning new things that troubles and challenge me
 </p>
 
 ---
