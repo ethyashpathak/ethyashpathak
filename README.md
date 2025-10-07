@@ -1,8 +1,8 @@
 <div align="center">
   
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shaswat%20Pathak&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width
-## 📬 Let's Connect!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shaswat%20Pathak&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width/>
+
 
 <div align="center">
 
@@ -22,12 +22,7 @@
 
 <br/>
 
-### 💭 Quote of the Day
-<i>"Like unresolved chords, some bugs just live in suspended tension until release... 🎶🐞"</i>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div><!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Music+Composer+%F0%9F%8E%B5;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
@@ -300,5 +295,5 @@ current_focus: Building impactful projects and mastering DSA
 ---
 
 <p align="center">
-  <b><i>“Like unresolved chords, some bugs just live in suspended tension until release... 🎶🐞”</i></b>
+  <b><i>“Bugs used to crawl,now they compile....oh wait,they don't...:(”</i></b>
 </p>
