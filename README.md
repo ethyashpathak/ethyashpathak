@@ -96,7 +96,7 @@ current_focus: Building impactful projects and mastering DSA
 
 **Highlights:**
 - 🚀 Developed and scaled a full-stack cross-platform civic engagement platform
-- 📱 Processed **10,000+ media uploads** for citizen issue reporting with GPS and photo/video/audio evidence
+- 📱 Platform is scaled for **10,000+ media uploads** for citizen issue reporting with GPS and photo/video/audio evidence
 - 🔐 Engineered secure multi-role authentication (Citizen, Department, Authority) using JWT
 - 📊 Designed real-time analytics dashboard with Mapbox for geographic insights
 
@@ -164,10 +164,10 @@ current_focus: Building impactful projects and mastering DSA
 <div align="center">
 
 ```diff
-+ � 200+ DSA problems solved across competitive programming platforms
++ � 200+ DSA problems solved across platforms
++ 🥇 Achieved global rank of 4780 in CodeChef Starters 198.
++ 🚀 Qualified in the institutional round of the Smart India Hackathon 2025, competing against over 200+ teams.
 + 🥇 1st Place in multiple inter-college solo singing competitions
-+ 🚀 Built and deployed 3+ full-stack applications with 10,000+ user interactions
-+ 💻 Active open-source contributor and problem solver
 ```
 
 </div>
