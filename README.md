@@ -1,99 +1,294 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Shaswat+Pathak!;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
-</p>
+<div align="center">
+  
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shaswat%20Pathak&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width
+## 📬 Let's Connect!
 
----
+<div align="center">
 
-<p align="center">
-  <a href="mailto:ethyashpathak@gmail.com"><img src="https://img.shields.io/badge/Email-ethyashpathak@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/shaswat-pathak03"><img src="https://img.shields.io/badge/LinkedIn-shaswat--pathak03-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/ethyashpathak"><img src="https://img.shields.io/badge/GitHub-ethyashpathak-181717?style=for-the-badge&logo=github"></a>
-</p>
-
----
-
-<h2 align="center">👨‍💻 About Me</h2>
-
-<p align="center">
-🎓 <b>B.Tech in Computer Science and Engineering</b> @ Techno India University (2023-2027)<br>
-🌏 Based in Kolkata, India<br>
-💡 Passionate about web apps, 3D visualizations, scalable backend systems<br>
-🎼 Original music composer in free time<br>
-🛠️  Collecting bugs… I mean, learning new things that troubles and challenge me
-</p>
-
----
-
-<h2 align="center">🚀 Projects</h2>
+<p>I'm always interested in collaborating on innovative projects and discussing new ideas!</p>
 
 <p>
-  <b>📝 <a href="https://blogsite-six-beige.vercel.app/">BlogSite</a></b><br>
-  <i>Appwrite, Redux-Toolkit, React, Tailwind CSS, TinyMCE</i><br>
-  Modern full stack blogging platform with rich-text editing, image uploads, secure auth, and responsive design.
+  <a href="mailto:ethyashpathak@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ethyashpathak%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shaswat-pathak03">
+    <img src="https://img.shields.io/badge/LinkedIn-shaswat--pathak03-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ethyashpathak">
+    <img src="https://img.shields.io/badge/GitHub-ethyashpathak-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
+<br/>
+
+### 💭 Quote of the Day
+<i>"Like unresolved chords, some bugs just live in suspended tension until release... 🎶🐞"</i>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div><!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Music+Composer+%F0%9F%8E%B5;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
+
+<!-- Social Badges with Icons -->
 <p>
-  <b>🧠 <a href="https://brainbridge-5tbb-oxphzfk9m-ethyashpathaks-projects.vercel.app/">BrainBridge (Prototype UI)</a></b><br>
-  <i>React, Appwrite, GSAP, Framer Motion, Tailwind CSS</i><br>
-  E-learning startup prototype UI. Smooth animations, secured auth using Appwrite, dark/light mode.
+  <a href="mailto:ethyashpathak@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shaswat-pathak03">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ethyashpathak">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://codeforces.com/profile/ethyashpathak">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://leetcode.com/u/ethyashpathak/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=ethyashpathak&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+
+</div>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
+
+```yaml
+name: Shaswat Pathak
+location: Kolkata, India �🇳
+education: B.Tech in Computer Science and Engineering
+university: Techno India University (2023-2027)
+interests: 
+  - Full Stack Development
+  - 3D Web Visualizations
+  - Scalable Backend Systems
+  - Competitive Programming
+hobbies:
+  - Original Music Composition 🎼
+  - Collecting bugs (and fixing them) 🐛
+current_focus: Building impactful projects and mastering DSA
+```
+
+<br/>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏙️ [CivicFix](https://cfapp-web.vercel.app/)
+
+**Tech Stack:** React Native, Node.js, Express.js, MongoDB, MapBox, Cloudinary, JWT
+
+**Highlights:**
+- 🚀 Developed and scaled a full-stack cross-platform civic engagement platform
+- 📱 Processed **10,000+ media uploads** for citizen issue reporting with GPS and photo/video/audio evidence
+- 🔐 Engineered secure multi-role authentication (Citizen, Department, Authority) using JWT
+- 📊 Designed real-time analytics dashboard with Mapbox for geographic insights
+
+<a href="https://cfapp-web.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+</a>
+
+</td>
+<td width="50%">
+
+### 📝 [BlogSite](https://blogsite-six-beige.vercel.app/)
+
+**Tech Stack:** Appwrite, Redux-Toolkit, React, Tailwind CSS, TinyMCE
+
+**Highlights:**
+- ✨ Modern full-stack blogging platform
+- 📝 Rich-text editing with TinyMCE
+- 🖼️ Image upload functionality
+- 🔒 Secure authentication
+- 📱 Fully responsive design
+
+<a href="https://blogsite-six-beige.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 [Marketing Analytics Dashboard](https://admybrand-one.vercel.app/)
+
+**Tech Stack:** React 19, Tailwind CSS v4, Recharts
+
+**Highlights:**
+- 📈 Real-time SaaS analytics dashboard
+- 🎨 Modular UI components
+- 📊 Dynamic KPI metrics
+- 🔄 Real-time API integration
+- 🎯 Interactive animated visualizations
+
+<a href="https://admybrand-one.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+</a>
+
+</td>
+<td width="50%">
+</td>
+</tr>
+
+</table>
+
+</div>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 🏆 Achievements & Highlights
+
+<div align="center">
+
+```diff
++ � 200+ DSA problems solved across competitive programming platforms
++ 🥇 1st Place in multiple inter-college solo singing competitions
++ 🚀 Built and deployed 3+ full-stack applications with 10,000+ user interactions
++ 💻 Active open-source contributor and problem solver
+```
+
+</div>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 🌐 Competitive Programming Profiles
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://codeforces.com/profile/ethyashpathak">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /><br/>
+<sub><b>View Profile</b></sub>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://www.codechef.com/users/ethyashpathak">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /><br/>
+<sub><b>View Profile</b></sub>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://leetcode.com/u/ethyashpathak/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /><br/>
+<sub><b>View Profile</b></sub>
+</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32px"> Tech Stack
+
+<div align="center">
+
+### Languages
 <p>
-  <b>📊 <a href="https://admybrand-one.vercel.app/">Marketing Analytics Dashboard</a></b><br>
-  <i>React 19, Tailwind CSS v4, Recharts</i><br>
-  Built a real-time SaaS analytics dashboard with modular UI, dynamic KPI metrics, real-time API integration, and interactive, animated data visualizations
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,sql" />
 </p>
 
----
-
-<h2 align="center">🏆 Achievements</h2>
-
-<p align="center">
-🏅 200+ DSA problems solved across platforms<br>
-🥇 1st Place in multiple inter-college solo singing competitions<br>
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,threejs,tailwind,vite" />
 </p>
 
----
-
-<h2 align="center">🌐 Online Profiles</h2>
-
-<p align="center">
-  <a href="https://codeforces.com/profile/ethyashpathak"><img src="https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/ethyashpathak"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/ethyashpathak/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://github.com/ethyashpathak"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/shaswat-pathak03"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,appwrite,firebase" />
 </p>
 
----
-
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,sql,react,redux,threejs,tailwind,git,github,appwrite" height="48" style="margin: 8px;"/>
+### Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" />
 </p>
 
----
+</div>
 
-<h2 align="center">📈 GitHub Stats</h2>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ethyashpathak&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethyashpathak&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethyashpathak&layout=compact&theme=radical" height="150"/>
-</p>
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+<br/>
 
-<h2 align="center">🤝 Roles of Responsibility</h2>
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32px" alt="Git"/> GitHub Analytics
 
-<p align="center">
-<b>GDSC</b>: Active Team Member <br>
-<b>Cultural/Music Club</b>: Co-ordinator & Active Member
-</p>
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ethyashpathak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ethyashpathak&theme=tokyonight&hide_border=true" />
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethyashpathak&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ethyashpathak&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 🤝 Leadership & Community
+
+<div align="center">
+
+| Organization | Role | Description |
+|:---:|:---:|:---:|
+| **GDSC** | Active Team Member | Contributing to technical initiatives and community building |
+| **Cultural/Music Club** | Co-ordinator & Active Member | Leading cultural events and music programs |
+
+</div>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
 
 <h2 align="center">📬 Connect with Me</h2>
 
