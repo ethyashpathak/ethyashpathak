@@ -72,6 +72,7 @@ interests:
 hobbies:
   - Original Music Composition 🎼
   - Collecting bugs (and fixing them) 🐛
+  - Solving Rubik's Cube..
 current_focus: Building impactful projects and mastering DSA
 ```
 
