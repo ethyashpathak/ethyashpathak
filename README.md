@@ -83,72 +83,37 @@ current_focus: Building impactful projects and mastering DSA
 
 <br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> Featured Projects
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px"> Projects
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%">
-
-### 🏙️ [CivicFix](https://cfapp-web.vercel.app/)
-
-**Tech Stack:** React Native, Node.js, Express.js, MongoDB, MapBox, Cloudinary, JWT
-
-**Highlights:**
-- 🚀 Developed and scaled a full-stack cross-platform civic engagement platform
-- 📱 Platform is scaled for **10,000+ media uploads** for citizen issue reporting with GPS and photo/video/audio evidence
-- 🔐 Engineered secure multi-role authentication (Citizen, Department, Authority) using JWT
-- 📊 Designed real-time analytics dashboard with Mapbox for geographic insights
-
-<a href="https://cfapp-web.vercel.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-</a>
-
+<td width="33%">
+<div align="center">
+<h3>🏙️ <a href="https://cfapp-web.vercel.app/">CivicFix</a></h3>
+<code>React Native • Node.js • MongoDB</code>
+<p>Cross-Platform Civic engagement platform connecting citizens with government departments to report, track, and resolve local issues.</p>
+<a href="https://cfapp-web.vercel.app/"><img src="https://img.shields.io/badge/Demo-00C853?style=flat-square&logo=vercel&logoColor=white" alt="Demo"/></a>
+</div>
 </td>
-<td width="50%">
-
-### 📝 [BlogSite](https://blogsite-six-beige.vercel.app/)
-
-**Tech Stack:** Appwrite, Redux-Toolkit, React, Tailwind CSS, TinyMCE
-
-**Highlights:**
-- ✨ Modern full-stack blogging platform
-- 📝 Rich-text editing with TinyMCE
-- 🖼️ Image upload functionality
-- 🔒 Secure authentication
-- 📱 Fully responsive design
-
-<a href="https://blogsite-six-beige.vercel.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-</a>
-
+<td width="33%">
+<div align="center">
+<h3>🎬 <a href="https://vironex-frontend.vercel.app/">ViroNex</a></h3>
+<code>React • Node.js • MongoDB • JWT</code>
+<p>Full-stack video streaming platform with secure user authentication and features such as like,comment,subscribe,etc.</p>
+<a href="https://vironex-frontend.vercel.app/"><img src="https://img.shields.io/badge/Demo-00C853?style=flat-square&logo=vercel&logoColor=white" alt="Demo"/></a>
+</div>
+</td>
+<td width="33%">
+<div align="center">
+<h3>� <a href="https://blogsite-six-beige.vercel.app/">BlogSite</a></h3>
+<code>Appwrite • React • TinyMCE</code>
+<p>A dynamic, modern blogging platform with robust user authentication, a rich content editor, and a fully responsive UI with dark/light mode support.</p>
+<a href="https://blogsite-six-beige.vercel.app/"><img src="https://img.shields.io/badge/Demo-00C853?style=flat-square&logo=vercel&logoColor=white" alt="Demo"/></a>
+</div>
 </td>
 </tr>
-
-<tr>
-<td width="50%">
-
-### 📊 [Marketing Analytics Dashboard](https://admybrand-one.vercel.app/)
-
-**Tech Stack:** React 19, Tailwind CSS v4, Recharts
-
-**Highlights:**
-- 📈 Real-time SaaS analytics dashboard
-- 🎨 Modular UI components
-- 📊 Dynamic KPI metrics
-- 🔄 Real-time API integration
-- 🎯 Interactive animated visualizations
-
-<a href="https://admybrand-one.vercel.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-</a>
-
-</td>
-<td width="50%">
-</td>
-</tr>
-
 </table>
 
 </div>
