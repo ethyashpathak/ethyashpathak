@@ -25,7 +25,7 @@
 
 
 </div><!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Music+Composer+%F0%9F%8E%B5;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Music+Composer+%F0%9F%8E%B5" alt="Typing SVG" />
 
 <!-- Social Badges with Icons -->
 <p>
@@ -187,7 +187,7 @@ current_focus: Building impactful projects and mastering DSA
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,sql" />
 </p>
 
 ### Frontend
