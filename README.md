@@ -197,7 +197,7 @@ current_focus: Building impactful projects and mastering DSA
 
 ### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,appwrite,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,appwrite,mysql" />
 </p>
 
 ### Tools & Technologies
