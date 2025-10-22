@@ -187,7 +187,7 @@ current_focus: Building impactful projects and mastering DSA
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,sql" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts" />
 </p>
 
 ### Frontend
