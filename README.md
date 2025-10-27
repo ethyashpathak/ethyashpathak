@@ -92,7 +92,7 @@ current_focus: Building impactful projects and mastering DSA
 <td width="33%">
 <div align="center">
 <h3>🏙️ <a href="https://cfapp-web.vercel.app/">CivicFix</a></h3>
-<code>React Native • Node.js • MongoDB</code>
+<code>React Native • Node.js • MongoDB • MapBox</code>
 <p>Cross-Platform Civic engagement platform connecting citizens with government departments to report, track, and resolve local issues.</p>
 <a href="https://cfapp-web.vercel.app/"><img src="https://img.shields.io/badge/Demo-00C853?style=flat-square&logo=vercel&logoColor=white" alt="Demo"/></a>
 </div>
