@@ -221,7 +221,8 @@ current_focus: Building impactful projects and mastering DSA
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ethyashpathak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ethyashpathak&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethyashpathak&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethyashpathak&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=3600&v=2" />
+
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ethyashpathak&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
