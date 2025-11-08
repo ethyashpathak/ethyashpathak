@@ -130,7 +130,7 @@ current_focus: Building impactful projects and mastering DSA
 <div align="center">
 
 ```diff
-+ � 200+ DSA problems solved across platforms
++ � 250+ DSA problems solved across platforms
 + 🥇 Achieved global rank of 4780 in CodeChef Starters 198.
 + 🚀 Qualified in the institutional round of the Smart India Hackathon 2025, competing against over 200+ teams.
 + 🥇 1st Place in multiple inter-college solo singing competitions
