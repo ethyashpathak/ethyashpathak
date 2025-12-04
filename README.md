@@ -203,7 +203,7 @@ hobbies:
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts" />
 </p>
 
 ### 🎨 Frontend Development
