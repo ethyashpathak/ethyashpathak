@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Competitive+Programmer+%F0%9F%A7%A9;Music+Composer+%F0%9F%8E%B5" alt="Typing SVG" />
 
 <!-- Profile Views Badge -->
-<img src="https://komarev.com/ghpvc/?username=ethyashpathak&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+
 
 <p align="center">
   <a href="mailto:ethyashpathak@gmail.com">
@@ -25,9 +25,10 @@
   <a href="https://leetcode.com/u/ethyashpathak/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=ethyashpathak&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </p>
 
-<p><i>✨ Building impactful solutions | Solving complex problems | Creating beautiful experiences ✨</i></p>
+<p><i>I build stuff, solve problems, and occasionally overthink interesting questions...:)</i></p>
 
 </div>
 
@@ -136,11 +137,7 @@ hobbies:
 
 ### 🎯 More Projects
 
-**Coming Soon!** Currently working on:
-- 🤖 AI-powered study assistant
-- 🎮 Real-time multiplayer game
-- 📈 Portfolio analytics dashboard
-
+**Coming Soon!**
 <br/>
 
 **Explore all my projects:**
