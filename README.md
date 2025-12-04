@@ -183,7 +183,7 @@ hobbies:
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/musical-notes.png" width="60"/>
 <h3>1st Place</h3>
-<p>Inter-College<br/>Singing Competition</p>
+<p>Multiple Inter-College<br/>Singing Competition</p>
 </td>
 </tr>
 </table>
