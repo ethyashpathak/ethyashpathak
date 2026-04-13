@@ -118,21 +118,22 @@ hobbies:
 <tr>
 <td width="50%" valign="top">
 
-### 📝 [BlogSite](https://blogsite-six-beige.vercel.app/)
+### 🤖 [Mentoria AI]((https://resume-enhancer-henna.vercel.app/))
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=Appwrite&logoColor=white" /> <img src="https://img.shields.io/badge/TinyMCE-4B85EE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini_LLM-4285F4?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-**Modern blogging platform** with rich content editing capabilities. Features robust authentication, dark/light mode, and an intuitive user interface.
+**Intelligent ATS Optimizer** leveraging semantic AI to algorithmically restructure technical resumes. Features a complex highly-interactive UI alongside a robotic multi-format data pipeline.
 
 **Key Features:**
-- ✏️ Rich text editor with TinyMCE
-- 🌓 Dark/Light mode support
-- 🔒 Secure user authentication
-- 📂 Category-based content organization
+- 🧠 Gemini-powered strict schema validations & analysis
+- 📑 Native multi-format compilation for `DOCX`, `PDF`, and `LaTeX` 
+- 📊 Dynamic ATS percentage scoring with Before & After diff grids
+- 💬 Globally injected, context-aware AI Career Counselor
+- 🎨 Premium glassmorphic UI driven by Framer Motion 
 
-[**Live Demo →**](https://blogsite-six-beige.vercel.app/)
-
+[**Live Demo →**]([(https://resume-enhancer-henna.vercel.app/)])
 </td>
+
 <td width="50%" valign="top">
 
 ### 🎯 More Projects
