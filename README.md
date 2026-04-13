@@ -118,7 +118,7 @@ hobbies:
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [Mentoria AI]((https://resume-enhancer-henna.vercel.app/))
+### 🤖 [Mentoria AI](https://resume-enhancer-henna.vercel.app/)
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini_LLM-4285F4?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
@@ -131,7 +131,7 @@ hobbies:
 - 💬 Globally injected, context-aware AI Career Counselor
 - 🎨 Premium glassmorphic UI driven by Framer Motion 
 
-[**Live Demo →**]([(https://resume-enhancer-henna.vercel.app/)])
+[**Live Demo →**](https://resume-enhancer-henna.vercel.app/)
 </td>
 
 <td width="50%" valign="top">
