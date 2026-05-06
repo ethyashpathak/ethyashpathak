@@ -167,13 +167,8 @@ hobbies:
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/trophy.png" width="60"/>
-<h3>4780th</h3>
-<p>Global Rank<br/>CodeChef Starters 198</p>
-</td>
-<td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/>
-<h3>250+</h3>
+<h3>300+</h3>
 <p>DSA Problems<br/>Solved</p>
 </td>
 <td align="center" width="25%">
