@@ -209,7 +209,7 @@ hobbies:
 
 ### ⚙️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,appwrite,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,appwrite,mysql,firebase,supabase" />
 </p>
 
 ### 🛠️ Tools & Platforms
